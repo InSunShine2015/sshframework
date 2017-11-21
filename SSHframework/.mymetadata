@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SSHframework"
+  id="myeclipse.1510834902428"
+  context-root="/SSHframework"
+  j2ee-spec="6.0"
+  archive="SSHframework.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

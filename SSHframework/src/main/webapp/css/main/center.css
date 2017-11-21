@@ -1,0 +1,117 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	overflow:auto;
+}
+.STYLE1 {
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.STYLE1122 {
+	font-size: 12px;
+}
+.STYLE3 {
+	font-size: 12px;
+	color: #033d61;
+}
+.STYLE3 a{
+	font-size: 12px;
+	color: #033d61;
+	text-decoration:none;
+}
+.STYLE3 a:hover{
+	font-size: 12px;
+	color: #033d61;
+	text-decoration:none;
+}
+.STYLE11 {font-size: 12px}
+.STYLE31 {font-size: 12px; font-weight: bold; }
+.STYLE41 {
+	color: #03515d;
+	font-size: 12px;
+}
+#fileview ul li{
+	list-style-type:none;
+}
+.menu_title SPAN {
+	FONT-WEIGHT: bold; LEFT: 3px; COLOR: #ffffff; POSITION: relative; TOP: 2px 
+}
+.menu_title2 SPAN {
+	FONT-WEIGHT: bold; LEFT: 3px; COLOR: #FFCC00; POSITION: relative; TOP: 2px
+}
+.submitBtn a{
+	font-size:12px;
+	text-decoration:none;
+	color:#000;
+	
+}
+table.gridlist{
+	border: 1px solid #EFEFEF;
+    width: 100%;
+}
+
+.division{
+    border-top: 1px solid #CCC;
+	border-left: 1px solid #CCC;
+	border-right: 2px solid #BEC6CE;
+	border-bottom: 2px solid #BEC6CE;
+	background: white;
+	margin: 10px;
+	padding: 5px;
+	line-height: 150%;
+	white-space: normal;}
+.division thead th  {
+	font-size: 12px;
+	padding: 1px 3px;
+	height: 22px;
+	line-height: 22px;
+	background: #cdeaf9;
+	border: 1px solid;
+	border-color: white #DBE2E7 #CCC white;
+	font-weight: bold;
+	text-align: center;
+	white-space: nowrap;
+	width:120px;
+	color: black;
+}
+.link-action{
+	margin:0 auto;
+	text-align:center;
+}
+
+
+div .btn {
+	background: #E2E8EB;
+	border-style: solid;
+	border-color: #FFF #BEC6CE #BEC6CE #FFFFFF;
+	border-width: 1px 2px 2px 1px;
+	display: -moz-inline-stack;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	margin: 0 1px;
+	padding: 0;
+	overflow: auto;
+	text-decoration: none;
+	cursor: pointer;
+}
+div .btn span {
+display: block;
+padding: 0 0 0 3px;
+height: 18px;
+line-height: 20px;
+white-space: nowrap;
+}
+
+
+
+div .curr {
+background: #666;
+border-color: #FFF #BEC6CE #BEC6CE #FFFFFF;
+font-variant: normal;
+font-weight: normal;
+border-width: 1px 2px 2px 1px;
+color: #fff;
+}
